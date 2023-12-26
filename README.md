@@ -32,7 +32,10 @@
 ### Package Manager
 - [Yarn](https://yarnpkg.com/)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 403782b56e0b3f37224d09a136c9daa72ff40e10
 ## Getting Started
 
 To run Venue-Match locally, follow these steps:
