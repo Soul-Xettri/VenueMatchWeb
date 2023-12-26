@@ -194,8 +194,10 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 
 #### iv) Categories
 
-![Category Table](src/assets/images/31.png)
-*Category Table*
+<p align="center">
+  ![Category Table](src/assets/images/31.png)
+  *Category Table*
+</p>
 
 ![Add Categoryr](src/assets/images/cat.png)
 ![Add Category2](src/assets/images/cat2.png)
@@ -209,7 +211,7 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 ![Current Booking Table](src/assets/images/booking.png)
 *View Booking Details*
 
-#### v) Stats
+#### vi) Stats
 
 ![Venue Match Stats](src/assets/images/33.png)
 *Venue Match Stats*
