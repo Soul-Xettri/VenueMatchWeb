@@ -3,7 +3,7 @@
 <p align="center">
   <img src="path/to/welcome-image.png" alt="Welcome Image" width="100%"/>
   <br />
-  <em>Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScript, CSS, SCSS, and simplePhp, dedicated to facilitating venue bookings for special occasions like birthdays, weddings, and more in Nepal. The project encompasses a user-friendly front-end, a straightforward back-end using simplePhp, a mobile app powered by Flutter, and seamless payment integration through Khalti. Additionally, Venue-Match features an admin panel for user management and statistical insights, ensuring a smooth experience for both users and administrators.</em>
+  Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScript, CSS, SCSS, and simplePhp, dedicated to facilitating venue bookings for special occasions like birthdays, weddings, and more in Nepal. The project encompasses a user-friendly front-end, a straightforward back-end using simplePhp, a mobile app powered by Flutter, and seamless payment integration through Khalti. Additionally, Venue-Match features an admin panel for user management and statistical insights, ensuring a smooth experience for both users and administrators.</em>
 </p>
 
 ## Technologies Used
