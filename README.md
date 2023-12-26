@@ -32,6 +32,52 @@ Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScr
 
 ## Screenshots
 
+Include screenshots of key sections such as the home page, venue listings, booking process, admin panel, etc.
+
+## Getting Started
+
+To run Venue-Match locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/venuematch.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd venuematch
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    yarn install
+    ```
+
+4. **Run the development server:**
+    ```bash
+    yarn dev
+    ```
+
+5. **Open your browser and visit [http://localhost:3000](http://localhost:3000) to explore Venue-Match.**
+
+### Axios Error
+
+Note: If you encounter an axios error during local development, it might be due to the removal of API routes from this public repository. To resolve this issue, please ensure that you have access to the necessary backend APIs or contact the project maintainers for the required API configuration.
+
+## Available Scripts
+
+- **`yarn dev`**: Start the development server.
+- **`yarn build`**: Build the production-ready application.
+- **`yarn lint`**: Lint the TypeScript code using ESLint.
+- **`yarn preview`**: Preview the production build locally.
+
+## Dependencies
+
+Check the `package.json` file for a complete list of dependencies and devDependencies.
+
+
+## Screenshots
+
 ### 1) HomePage
 
 ![Navbar Component](src/assets/images/1.png)
@@ -168,32 +214,9 @@ Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScr
 ![Venue Match Stats](src/assets/images/33.png)
 *Venue Match Stats*
 
-## Getting Started
 
-To run Venue-Match locally, follow these steps:
+## License
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/venuematch.git
-    ```
+This project is licensed under the MIT License.
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd venuematch
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    yarn install
-    ```
-
-4. **Run the development server:**
-    ```bash
-    yarn dev
-    ```
-
-5. **Open your browser and visit [http://localhost:3000](http://localhost:3000) to explore Venue-Match.**
-
-### Axios Error
-
-Note: If you encounter an axios error during local development, it might be due to the removal of API routes from this public repository. To resolve this issue, please ensure that you have access to the necessary backend APIs or contact the project maintain
+Happy event planning with Venue-Match! 🎉
