@@ -195,7 +195,7 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 #### iv) Categories
 
 <p align="center">
-  <img src="src/assets/images/31.png" alt="Category Table" width="50%"/>
+  <img src="src/assets/images/31.png" alt="Category Table" width="100%"/>
   <br />
   <em>Category Table</em>
 </p>
