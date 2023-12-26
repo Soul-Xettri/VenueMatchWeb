@@ -71,6 +71,33 @@ To run Venue-Match locally, follow these steps:
 
 Check the `package.json` file for a complete list of dependencies and devDependencies.
 
+## Screenshots
+
+![Hero Section](src/assets/Images/heroSection.png)
+*Hero Section*
+
+![Hero Section Carousel](src/assets/Images/hero-carousel.png)
+*Hero Section Carousel*
+
+![About Section](src/assets/Images/2.png)
+*About Section*
+
+![Banner Section](src/assets/Images/3.png)
+*Banner Section*
+
+![Product Section 1](src/assets/Images/4.png)
+![Product Section 2](src/assets/Images/5.png)
+*Product Section*
+
+![Newsletter Section](src/assets/Images/6.png)
+*Newsletter Section*
+
+![Auth Page](src/assets/Images/auth.png)
+*Auth Page*
+
+![404 Error Page](src/assets/Images/404.png)
+*404 Error Page*
+
 ## License
 
 This project is licensed under the MIT License.
