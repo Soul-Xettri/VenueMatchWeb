@@ -32,10 +32,6 @@
 ### Package Manager
 - [Yarn](https://yarnpkg.com/)
 
-## Screenshots
-
-Include screenshots of key sections such as the home page, venue listings, booking process, admin panel, etc.
-
 ## Getting Started
 
 To run Venue-Match locally, follow these steps:
