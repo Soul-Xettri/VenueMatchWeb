@@ -73,7 +73,7 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 
 ## Screenshots
 
-# 1) HomePage
+### 1) HomePage
 
 ![Hero Section](src/assets/images/1.png)
 *Hero Section*
