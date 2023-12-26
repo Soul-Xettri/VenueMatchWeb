@@ -73,7 +73,7 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 
 ## Screenshots
 
-![Hero Section](src/assets/Images/heroSection.png)
+![Hero Section](src/assets/Images/1.png)
 *Hero Section*
 
 ![Hero Section Carousel](src/assets/Images/hero-carousel.png)
