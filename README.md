@@ -195,8 +195,10 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 #### iv) Categories
 
 <p align="center">
+  {
   ![Category Table](src/assets/images/31.png)
   *Category Table*
+  }
 </p>
 
 ![Add Categoryr](src/assets/images/cat.png)
