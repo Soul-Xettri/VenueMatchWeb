@@ -1,0 +1,103 @@
+.datatable {
+  height: 600px;
+
+  .datatableTitle{
+    width: 100%;
+    font-size: 24px;
+    color:gray;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .link{
+      text-decoration: none;
+      color:green;
+      font-size: 16px;
+      font-weight: 400;
+      border: 1px solid green;
+      padding: 5px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  }
+
+  .cellWithImage {
+    display: flex;
+    align-items: center;
+
+    .cellImage {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 20px;
+    }
+  }
+.cellWithRole{
+  padding: 0px 10px;
+  border-radius: 20px;
+  &.admin {
+    color: crimson;
+    background-color: rgb(255 0 0 / 19%);
+  }
+  &.user {
+    color: green;
+    background-color: rgba(0, 128, 0, 0.151);
+  }
+  &.venue_owner {
+    color: blue;
+      background-color: rgba(3, 22, 189, 0.062);
+  }
+}
+
+  .cellWithStatus {
+    padding: 0px 10px;
+    border-radius: 20px;
+
+    &.verified {
+      color: green;
+      background-color: rgba(0, 128, 0, 0.151);
+    }
+
+    &.pending {
+      color: rgb(187, 32, 218);
+      background-color: rgba(146, 3, 189, 0.082);
+    }
+
+    &.passive {
+      color: crimson;
+      background-color: rgb(255 0 0 / 19%);
+    }
+    &.booked{
+      color:green;
+      background-color: rgba(0, 128, 0, 0.151);
+    }
+  }
+
+  .cellAction {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    .viewButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: darkblue;
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+      line-height: 1.43;
+      font-size: 0.875rem;
+    }
+
+    .deleteButton {
+        padding: 2px 5px;
+        border-radius: 5px;
+        color: crimson;
+        border: 1px dotted rgba(220, 20, 60, 0.6);
+      cursor: pointer;
+      line-height: 1.43;
+      font-size: 0.875rem;
+      }
+  }
+}
