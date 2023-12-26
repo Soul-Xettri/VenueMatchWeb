@@ -1,6 +1,10 @@
 # Venue-Match
 
-Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScript, CSS, SCSS, and simplePhp, dedicated to facilitating venue bookings for special occasions like birthdays, weddings, and more in Nepal. The project encompasses a user-friendly front-end, a straightforward back-end using simplePhp, a mobile app powered by Flutter, and seamless payment integration through Khalti. Additionally, Venue-Match features an admin panel for user management and statistical insights, ensuring a smooth experience for both users and administrators.
+<p align="center">
+  <img src="path/to/welcome-image.png" alt="Welcome Image" width="100%"/>
+  <br />
+  <em>Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScript, CSS, SCSS, and simplePhp, dedicated to facilitating venue bookings for special occasions like birthdays, weddings, and more in Nepal. The project encompasses a user-friendly front-end, a straightforward back-end using simplePhp, a mobile app powered by Flutter, and seamless payment integration through Khalti. Additionally, Venue-Match features an admin panel for user management and statistical insights, ensuring a smooth experience for both users and administrators.</em>
+</p>
 
 ## Technologies Used
 
@@ -80,117 +84,202 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 
 ### 1) HomePage
 
-![Navbar Component](src/assets/images/1.png)
-*Navbar Component*
+<p align="center">
+  <img src="src/assets/images/1.png" alt="Navbar Component" width="100%"/>
+  <br />
+  <em>Navbar Component</em>
+</p>
 
-![Hero Section](src/assets/images/2.png)
-![Hero Section2](src/assets/images/3.png)
-*Hero Section with Animation*
+<p align="center">
+  <img src="src/assets/images/2.png" alt="Hero Section" width="100%"/>
+  <img src="src/assets/images/3.png" alt="Hero Section2" width="100%"/>
+  <br />
+  <em>Hero Section with Animation</em>
+</p>
 
-![Detail Section](src/assets/images/4.png)
-*Detail Section*
+<p align="center">
+  <img src="src/assets/images/4.png" alt="Detail Section" width="100%"/>
+  <br />
+  <em>Detail Section</em>
+</p>
 
-![Video Section](src/assets/images/5.png)
-*Video Section*
+<p align="center">
+  <img src="src/assets/images/5.png" alt="Video Section" width="100%"/>
+  <br />
+  <em>Video Section</em>
+</p>
 
-![Category Section](src/assets/images/6.png)
-*Category Section*
+<p align="center">
+  <img src="src/assets/images/6.png" alt="Category Section" width="100%"/>
+  <br />
+  <em>Category Section</em>
+</p>
 
-![Popular Section](src/assets/images/7.png)
-![Popular Section2](src/assets/images/8.png)
-*Popular Section*
+<p align="center">
+  <img src="src/assets/images/7.png" alt="Popular Section" width="100%"/>
+  <img src="src/assets/images/8.png" alt="Popular Section2" width="100%"/>
+  <br />
+  <em>Popular Section</em>
+</p>
 
-![Info Section](src/assets/images/9.png)
-*Info Section*
+<p align="center">
+  <img src="src/assets/images/9.png" alt="Info Section" width="100%"/>
+  <br />
+  <em>Info Section</em>
+</p>
 
-![Reservation Section](src/assets/images/10.png)
-*Reservation Section*
+<p align="center">
+  <img src="src/assets/images/10.png" alt="Reservation Section" width="100%"/>
+  <br />
+  <em>Reservation Section</em>
+</p>
 
-![Feed Section](src/assets/images/11.png)
-![Feed Section2](src/assets/images/12.png)
-*Feed Section*
+<p align="center">
+  <img src="src/assets/images/11.png" alt="Feed Section" width="100%"/>
+  <img src="src/assets/images/12.png" alt="Feed Section2" width="100%"/>
+  <br />
+  <em>Feed Section</em>
+</p>
 
-![Footer Component](src/assets/images/13.png)
-*Footer Component*
+<p align="center">
+  <img src="src/assets/images/13.png" alt="Footer Component" width="100%"/>
+  <br />
+  <em>Footer Component</em>
+</p>
 
 ### 2) VenuePage
 
-![Venue Lists](src/assets/images/14.png)
-![Venue Lists2](src/assets/images/15.png)
-*Venue Lists wih different Categories*
+<p align="center">
+  <img src="src/assets/images/14.png" alt="Venue Lists" width="100%"/>
+  <img src="src/assets/images/15.png" alt="Venue Lists2" width="100%"/>
+  <br />
+  <em>Venue Lists wih different Categories</em>
+</p>
 
-![Venue Detail](src/assets/images/venuedetail.png)
-![Venue Detail2](src/assets/images/venuedetail2.png)
-*Venue Details*
+<p align="center">
+  <img src="src/assets/images/venuedetail.png" alt="Venue Detail" width="100%"/>
+  <img src="src/assets/images/venuedetail2.png" alt="Venue Detail2" width="100%"/>
+  <br />
+  <em>Venue Details</em>
+</p>
 
 ### 3) AboutPage
 
-![About Hero](src/assets/images/16.png)
-*About Hero Section*
+<p align="center">
+  <img src="src/assets/images/16.png" alt="About Hero" width="100%"/>
+  <br />
+  <em>About Hero Section</em>
+</p>
 
-![Who We ARE](src/assets/images/17.png)
-*Who We ARE*
+<p align="center">
+  <img src="src/assets/images/17.png" alt="Who We ARE" width="100%"/>
+  <br />
+  <em>Who We ARE</em>
+</p>
 
 ### 4) GalleryPage
 
-![Gallery Hero](src/assets/images/18.png)
-*Gallery Hero Section*
+<p align="center">
+  <img src="src/assets/images/18.png" alt="Gallery Hero" width="100%"/>
+  <br />
+  <em>Gallery Hero Section</em>
+</p>
 
-![Galleries](src/assets/images/19.png)
-![Galleries2](src/assets/images/20.png)
-*Galleries*
+<p align="center">
+  <img src="src/assets/images/19.png" alt="Galleries" width="100%"/>
+  <img src="src/assets/images/20.png" alt="Galleries2" width="100%"/>
+  <br />
+  <em>Galleries</em>
+</p>
 
 ### 5) AuthPage
 
-![Signin Section](src/assets/images/21.png)
-*Signin Section*
+<p align="center">
+  <img src="src/assets/images/21.png" alt="Signin Section" width="100%"/>
+  <br />
+  <em>Signin Section</em>
+</p>
 
-![Signup Section](src/assets/images/22.png)
-![Signup Section2](src/assets/images/23.png)
-*Signup Section*
+<p align="center">
+  <img src="src/assets/images/22.png" alt="Signup Section" width="100%"/>
+  <img src="src/assets/images/23.png" alt="Signup Section2" width="100%"/>
+  <br />
+  <em>Signup Section</em>
+</p>
 
 ### 5) Admin Dashbord
 
 #### i) Dashbord
 
-![Dashbord](src/assets/images/24.png)
-![Dashbord2](src/assets/images/25.png)
+<p align="center">
+  <img src="src/assets/images/24.png" alt="Dashbord" width="100%"/>
+  <img src="src/assets/images/25.png" alt="Dashbord2" width="100%"/>
+  <br />
+  <em>Dashbord</em>
+</p>
 
 #### ii) Users
 
-![User Table](src/assets/images/26.png)
-*User Table*
+<p align="center">
+  <img src="src/assets/images/26.png" alt="User Table" width="100%"/>
+  <br />
+  <em>User Table</em>
+</p>
 
-![Add New User](src/assets/images/27.png)
-*Add New User*
+<p align="center">
+  <img src="src/assets/images/27.png" alt="Add New User" width="100%"/>
+  <br />
+  <em>Add New User</em>
+</p>
 
-![User Detail](src/assets/images/vo.png)
-![User Detail](src/assets/images/userpfp.png)
-*User Detail*
+<p align="center">
+  <img src="src/assets/images/vo.png" alt="User Detail" width="100%"/>
+  <img src="src/assets/images/userpfp.png" alt="User Detail" width="100%"/>
+  <br />
+  <em>User Detail</em>
+</p>
 
-![User Edit](src/assets/images/vo2.png)
-*User Edit*
+<p align="center">
+  <img src="src/assets/images/vo2.png" alt="User Edit" width="100%"/>
+  <br />
+  <em>User Edit</em>
+</p>
 
 #### iii) Venues
 
-![Venue Table](src/assets/images/28.png)
-*Venue Table*
+<p align="center">
+  <img src="src/assets/images/28.png" alt="Venue Table" width="100%"/>
+  <br />
+  <em>Venue Table</em>
+</p>
 
-![Add New Venue](src/assets/images/29.png)
-![Add New Venue2](src/assets/images/30.png)
-*Add New Venue*
+<p align="center">
+  <img src="src/assets/images/29.png" alt="Add New Venue" width="100%"/>
+  <img src="src/assets/images/30.png" alt="Add New Venue2" width="100%"/>
+  <br />
+  <em>Add New Venue</em>
+</p>
 
-![View Venue](src/assets/images/vd.png)
-![View Venue2](src/assets/images/vd2.png)
-![View Venue3](src/assets/images/vd3.png)
-*View Venue*
+<p align="center">
+  <img src="src/assets/images/vd.png" alt="View Venue" width="100%"/>
+  <img src="src/assets/images/vd2.png" alt="View Venue2" width="100%"/>
+  <img src="src/assets/images/vd3.png" alt="View Venue3" width="100%"/>
+  <br />
+  <em>View Venue</em>
+</p>
 
-![Update Venue](src/assets/images/up1.png)
-![Update Venue2](src/assets/images/up2.png)
-*Update Venue*
+<p align="center">
+  <img src="src/assets/images/up1.png" alt="Update Venue" width="100%"/>
+  <img src="src/assets/images/up2.png" alt="Update Venue2" width="100%"/>
+  <br />
+  <em>Update Venue</em>
+</p>
 
-![Add New Dish2](src/assets/images/dish.png)
-*Add New Dish*
+<p align="center">
+  <img src="src/assets/images/dish.png" alt="Add New Dish2" width="100%"/>
+  <br />
+  <em>Add New Dish</em>
+</p>
 
 #### iv) Categories
 
@@ -200,23 +289,34 @@ Check the `package.json` file for a complete list of dependencies and devDepende
   <em>Category Table</em>
 </p>
 
-![Add Categoryr](src/assets/images/cat.png)
-![Add Category2](src/assets/images/cat2.png)
-*Add Category*
+<p align="center">
+  <img src="src/assets/images/cat.png" alt="Add Categoryr" width="100%"/>
+  <img src="src/assets/images/cat2.png" alt="Add Category2" width="100%"/>
+  <br />
+  <em>Add Category</em>
+</p>
 
 #### v) Bookings
 
-![Current Booking Table](src/assets/images/32.png)
-*Current Booking Table*
+<p align="center">
+  <img src="src/assets/images/32.png" alt="Current Booking Table" width="100%"/>
+  <br />
+  <em>Current Booking Table</em>
+</p>
 
-![Current Booking Table](src/assets/images/booking.png)
-*View Booking Details*
+<p align="center">
+  <img src="src/assets/images/booking.png" alt="Current Booking Table" width="100%"/>
+  <br />
+  <em>View Booking Details</em>
+</p>
 
 #### vi) Stats
 
-![Venue Match Stats](src/assets/images/33.png)
-*Venue Match Stats*
-
+<p align="center">
+  <img src="src/assets/images/33.png" alt="Venue Match Stats" width="100%"/>
+  <br />
+  <em>Venue Match Stats</em>
+</p>
 
 ## License
 
