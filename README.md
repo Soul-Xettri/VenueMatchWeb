@@ -5,30 +5,30 @@ Welcome to Venue-Match, a comprehensive platform built with React, Vite, TypeScr
 ## Technologies Used
 
 ### Front-end
-- React
-- Vite
-- TypeScript
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 - CSS
 - SCSS
-- Material-UI Icons
-- Mantine UI Library
-- Tabler Icons
-- Tailwind CSS
-- Styled Components
-- Emotion
-- Recharts
+- [Material-UI Icons](https://mui.com/components/material-icons/)
+- [Mantine UI Library](https://mantine.dev/)
+- [Tabler Icons](https://tablericons.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Styled Components](https://styled-components.com/)
+- [Emotion](https://emotion.sh/)
+- [Recharts](https://recharts.org/en/)
 
 ### Back-end
 - simplePhp
 
 ### Mobile App
-- Flutter
+- [Flutter](https://www.fulter.net/en/home/)
 
 ### Payment Integration
-- Khalti
+- [Khalti](https://www.khalti.com/)
 
 ### Package Manager
-- Yarn
+- [Yarn](https://yarnpkg.com/)
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ To run Venue-Match locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/venuematch.git
+    git clone https://github.com/soul-xettri/venuematch.git
     ```
 
 2. **Navigate to the project directory:**
@@ -58,7 +58,7 @@ To run Venue-Match locally, follow these steps:
     yarn dev
     ```
 
-5. **Open your browser and visit [http://localhost:3000](http://localhost:3000) to explore Venue-Match.**
+5. **Open your browser and visit [http://localhost:5173](http://localhost:5173) to explore Venue-Match.**
 
 ### Axios Error
 
